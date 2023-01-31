@@ -1,0 +1,8 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+said, Portfolio Website, Creating Portfolio Website to demonstrate my programming skills, 24 Dec 2022, 01 Jan 2023, No
+alex, Chatbot, Chatbot for marketing purposes, 24 Dec 2022, 20 Jan 2023, No
+alex, Testing add task, Tests function to add task, 05 Jan 2023, 24 Jan 2023, No
+said, Django Project, E-commerce website , 14 Jan 2023, 20 Jan 2023, Yes
+said, New task, Testing the task_manager.py, 18 Jan 2023, 20 Jan 2023, No
+said, New Task 2, New testing task for the project, 18 Jan 2023, 22 Jan 2023, No
